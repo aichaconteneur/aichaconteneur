@@ -1,6 +1,6 @@
 # 👋 Salut, moi c’est Aicha
 
-🚀 **Étudiante en DevOps / Cloud Azure**  
+🚀 **Étudiante en DevOps **  
 🌍 Passionnée par le Cloud, les Réseaux et l’IoT  
 🎯 Objectif : devenir **Cloud & DevOps Engineer**
 
@@ -51,5 +51,8 @@
 - 🐙 GitHub : https://github.com/aichaconteneur  
 
 ---
+## Badges
+![Git](https://img.shields.io/badge/Git-black?logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)
 
 ⭐ Merci de visiter mon profil !
